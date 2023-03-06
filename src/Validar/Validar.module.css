@@ -1,0 +1,9 @@
+.Validar{
+    color:var(--main-bg-color);
+    height:20vh;
+    display: flex;
+    gap:40px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
